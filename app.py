@@ -3,7 +3,7 @@ import streamlit.components.v1 as stc
 
 # EDA Pkgs
 import pandas as pd 
-import neattext as nt
+#import neattext as nt
 import neattext.functions as nfx 
 import random
 
